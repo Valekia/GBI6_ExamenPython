@@ -31,3 +31,6 @@
 -from Bio import AlignIO
 
 -from Bio import SeqIO
+
+
+![Image text]([https://github.com/zzuljs/CppLearning/blob/master/CppLearning/raw/master/Itachi.jpg](https://drive.google.com/file/d/1CVWq-V_X2zDxxHU3qDg9Vp0-SXkqR8dY/view?usp=sharing)
