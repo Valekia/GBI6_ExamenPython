@@ -12,8 +12,11 @@
 
 ## Caracteristicas del computador
 -Nombre del dispositivo	Angiely-C
+
 -Procesador	Intel(R) Core(TM) i3-7020U CPU @ 2.30GHz   2.30 GHz
+
 -RAM instalada	4,00 GB
+
 -Tipo de sistema	Sistema operativo de 64 bits, procesador basado en x64
 
 ## Versión de Python/Anaconda y de cada uno de los módulos/paquetes y utilizados
