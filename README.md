@@ -21,8 +21,13 @@
 
 ## Versión de Python/Anaconda y de cada uno de los módulos/paquetes y utilizados
 -Python version 3.9.12
+
 -Anaconda version 1.9.0
+
 -from Bio import Entrez
+
 -from Bio import Phylo
+
 -from Bio import AlignIO
+
 -from Bio import SeqIO
