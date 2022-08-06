@@ -2,9 +2,12 @@
 
 ## Datos Personales
 -Angiely Valeria Camacho Aguilar
+
 -21 años  
--Biotecnologia 
--Machala
+
+-Biotecnologia  
+
+-Machala  
 
 
 ## Caracteristicas del computador
