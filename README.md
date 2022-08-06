@@ -32,5 +32,8 @@
 
 -from Bio import SeqIO
 
+##data
+La data utilizada es de la pagina pubmed por medio de entrez para poder obtener tanto el numero de publicaciones acerca de una palabra, como los paises con mayores numeros de publicaciones
 
+## Imagen
 ![Image text]([https://github.com/zzuljs/CppLearning/blob/master/CppLearning/raw/master/Itachi.jpg](https://drive.google.com/file/d/1CVWq-V_X2zDxxHU3qDg9Vp0-SXkqR8dY/view?usp=sharing)
