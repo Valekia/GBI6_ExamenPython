@@ -15,7 +15,7 @@ def download_pubmed (keyword):
     """
      
     Entrez.email = 'gualapuro.moises@gmail.com'
-    busq = Entrez.read(Entrez.esearch(db="pubmed", 
+    busq = Entrez.read(Entrez.esearch(db="pubmed",   
                             term=keyword,
                             usehistory="y"))
     webenv = busq["WebEnv"]
