@@ -33,7 +33,8 @@ def download_pubmed (keyword):
 
 def science_plots (file):
     """
-    Descripción    """
+    Codigo para seleccionar los paises de mayor a menor incidencia  
+    """
     
     email = re.sub(r'\s[\w._%+-]+@[\w.-]+\.[a-zA-Z]{1,4}','',file)
     puntos = re.sub(r'\..\d.\,',',',email)
