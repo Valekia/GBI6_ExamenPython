@@ -29,7 +29,7 @@ def download_pubmed (keyword):
     dataexp = re.sub(r'\n\s{6}','', data)
     return dataexp
     
-
+#Angiely Camacho
 
 def science_plots (file):
     """
@@ -112,6 +112,5 @@ def science_plots (file):
             shadow=True, startangle=90)
     ax1.axis('equal')  
     plt.show()
-    plt.savefig('img/Gráficadepie.....jpg', dpi=500)
 
     return (Table_B)
