@@ -1,0 +1,755 @@
+LOCUS       KM435261                1443 bp    DNA     linear   BCT 15-DEC-2014
+DEFINITION  Oenococcus oeni strain NM-2c 6-phospho-beta-glucosidase gene,
+            complete cds.
+ACCESSION   KM435261
+VERSION     KM435261.1
+KEYWORDS    .
+SOURCE      Oenococcus oeni
+  ORGANISM  Oenococcus oeni
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Oenococcus.
+REFERENCE   1  (bases 1 to 1443)
+  AUTHORS   Yang,S.
+  TITLE     6-phospho-beta-glucosidase enzyme gene cloning and bioinformatics
+            analysis of Oenococcus oeni
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1443)
+  AUTHORS   Yang,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-AUG-2014) College of Enology, Northwest A&F
+            University, No. 3 Taicheng Road, Yangling, Shaanxi 712100, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1443
+                     /organism="Oenococcus oeni"
+                     /mol_type="genomic DNA"
+                     /strain="NM-2c"
+                     /db_xref="taxon:1247"
+                     /country="China"
+                     /lat_lon="39.15 N 106.82 E"
+                     /collection_date="26-May-2002"
+                     /collected_by="F. McMurray"
+     CDS             1..1443
+                     /note="6p-bgl"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="6-phospho-beta-glucosidase"
+                     /protein_id="AIZ50374.1"
+                     /translation="MNKLFLPKNFLWGGAVAANQLEGGWDQDNKGLSVADIMTAGTNG
+                     KAREITDGIVKGKYYPNHEAIDFYHRYKEDIKLFAEMGFKCFRTSIAWTRIFPNGDEE
+                     QPNEAGLKFYDQLFDECHKYGIEPVITLSHFEMPYHLVKAYGGWRNRKLIDFFVRFAK
+                     TVFKRYKDKVSYWMTFNEIDNQTDYTNRFLMATNSGLILKNDQSDAESLMYQAAHYEL
+                     VASALAVKLGHSINPNFQIGCMINMTPVYPASSKPADIFQAEKAMQRRYWFSDIHALG
+                     KYPENMEVFLKQNNFRPDITSEDRIVLKEGTVDYIGLSYYNSMTVQSKESNPGFHFIG
+                     PELTVDNPNVEKSDWGWPIDPLGLRYSLNWLADHYHKPLFIVENGLGAYDKVENSQQI
+                     HDPYRIAYLKAHIQAMIDAVQEDGVKVIGYTPWGCIDLVSAGTGQMSKRYGFIYVDKD
+                     DQGKGSLKRLKKDSFFWYQQVIQSNGSQLD"
+ORIGIN      
+        1 ttgaataaac tttttttgcc gaaaaatttt ttgtggggag gtgccgtagc ggccaatcaa
+       61 ttagagggcg gttgggacca agacaacaaa ggtctcagtg tagccgacat tatgactgcc
+      121 ggaaccaatg gaaaagcacg ggagattacc gatggaattg ttaaaggcaa gtattacccc
+      181 aatcatgagg ccatcgactt ttatcatcgc tataaagaag atatcaagtt attcgccgag
+      241 atgggtttta aatgttttcg aacctcgatt gcctggacga ggatctttcc caatggagac
+      301 gaagagcaac ccaacgaagc cggcttgaag ttttacgacc agctatttga tgaatgccac
+      361 aagtatggta tcgaaccggt cattaccctc tcacattttg aaatgcccta tcatttggtt
+      421 aaagcctacg gcggctggcg taaccgaaaa ctaatcgatt tctttgttcg ctttgccaag
+      481 acggtcttta aacgttataa agacaaagtt agctactgga tgacttttaa tgagatcgac
+      541 aaccaaaccg attatacaaa tcgcttctta atggctacta attccggttt gatattaaaa
+      601 aacgatcaaa gtgatgcgga aagcttaatg tatcaggcgg ctcattacga attggttgcc
+      661 agtgctctag ccgtcaagct tggccacagt attaatccta attttcagat cggctgcatg
+      721 atcaacatga cgccagttta cccggcttcc tcaaaaccag ctgatatctt tcaagcagaa
+      781 aaagcaatgc aaaggcgcta ctggttttcc gacattcacg ctctgggaaa atatccggaa
+      841 aacatggaag tatttttgaa acaaaacaat tttcgcccgg atatcacgag cgaggaccga
+      901 atagtattaa aagaaggaac tgtcgactat attggattga gttattacaa ttcaatgacc
+      961 gttcaatcaa aagaaagcaa cccgggcttt catttcatcg gtccggaact gaccgttgat
+     1021 aatccaaatg ttgaaaaaag cgattgggga tggccgatcg atccgttggg acttaggtat
+     1081 tctttaaact ggctggccga ccactatcac aagcccttgt tcattgttga aaacggtctg
+     1141 ggagcctatg acaaagtcga aaatagccaa cagatccatg acccttatcg aatcgcttat
+     1201 ctaaaagctc atatccaggc aatgatcgat gcggttcaag aagacggggt taaggtcatt
+     1261 ggttatacgc cctggggttg tatcgatctg gtttccgccg gaaccggaca gatgtccaaa
+     1321 aggtacggtt ttatctatgt cgataaagac gaccagggca aaggcagctt aaaaagactg
+     1381 aaaaaggatt cctttttctg gtatcaacag gttattcagt caaacggcag tcaattagat
+     1441 taa
+//
+
+LOCUS       KM435260                1443 bp    DNA     linear   BCT 15-DEC-2014
+DEFINITION  Oenococcus oeni strain 31-DH 6-phospho-beta-glucosidase gene,
+            complete cds.
+ACCESSION   KM435260
+VERSION     KM435260.1
+KEYWORDS    .
+SOURCE      Oenococcus oeni
+  ORGANISM  Oenococcus oeni
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Oenococcus.
+REFERENCE   1  (bases 1 to 1443)
+  AUTHORS   Yang,S.
+  TITLE     6-phospho-beta-glucosidase enzyme gene cloning and bioinformatics
+            analysis of Oenococcus oeni
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1443)
+  AUTHORS   Yang,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-AUG-2014) College of Enology, Northwest A&F
+            University, No. 3 Taicheng Road, Yangling, Shaanxi 712100, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1443
+                     /organism="Oenococcus oeni"
+                     /mol_type="genomic DNA"
+                     /strain="31-DH"
+                     /db_xref="taxon:1247"
+                     /country="USA"
+                     /lat_lon="37.12 N 122.20 W"
+                     /collection_date="16-Apr-2001"
+                     /collected_by="A. Gardner"
+     CDS             1..1443
+                     /note="6p-bgl"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="6-phospho-beta-glucosidase"
+                     /protein_id="AIZ50373.1"
+                     /translation="MNKLFLPKNFLWGGAVAANQLEGGWDQDNKGLSVADIMTAGANG
+                     KAREITDGIVKGKYYPNHEAIDFYHRYKEDIKLFAEMGFKCFRTSIAWTRIFPNGDEE
+                     QPNEAGLKFYDQLFDECHKYGIEPVITLSHFEMPYHLVKVYGGWRNRKLIDFFVHFAK
+                     TVFKRYKDKVSYWMTFNEIDNQTDYTNRFLMATNSGLILKNDQSDAESLMYQAAHYEL
+                     VASALAVKLGHSINPDFQIGCMINMTPVYPASSKPADIFQAEKAMQRRYWFSDIHALG
+                     KYPENMEVFLKQNNFRPDITSEDRIVLKEGTVDYIGLSYYNSMTVQSKESNPGFHFIG
+                     PELTVDNPNVEKSDWGWPIDPLGLRYSLNWLADHYHKPLFIVENGLGAYDKVENNQQI
+                     HDPYRIAYLKAHIQAMIDAVQEDGVKVIGYTPWGCIDLVSAGTGQMSKRYGFIYVDKD
+                     DQGKGSLKRLKKDSFFWYQQVIKSNGSQLD"
+ORIGIN      
+        1 ttgaataaac tttttttgcc gaaaaatttt ttgtggggag gcgccgtagc ggccaaccaa
+       61 ttagagggcg gttgggacca agacaacaaa ggtctcagtg tagccgacat tatgactgcc
+      121 ggagccaatg gaaaagcacg ggagattacc gatggaattg ttaaaggcaa gtattacccc
+      181 aatcatgagg ccatcgactt ttatcatcgc tataaagaag atatcaagtt attcgccgag
+      241 atgggtttta aatgttttcg aacctcgatt gcctggacga ggatctttcc caatggagac
+      301 gaagagcaac ccaacgaagc cggcttgaag ttttacgacc agctctttga tgaatgccac
+      361 aagtatggta tcgaaccggt cattaccctc tcgcattttg aaatgcccta tcacttggtt
+      421 aaagtctacg gcggctggcg taaccgaaaa ctaatcgatt tctttgttca ctttgccaag
+      481 acggtcttca aacgttataa agacaaagtt agctactgga tgacctttaa tgagatcgac
+      541 aaccaaaccg attatacaaa tcgcttctta atggctacta attccggttt gatattaaaa
+      601 aatgatcaaa gtgatgcaga aagcttaatg tatcaagcgg ctcattacga actggttgcc
+      661 agtgctctag ccgtcaagct tggccatagt attaatcctg attttcagat cggctgcatg
+      721 atcaacatga cgcctgttta cccggcttct tcaaaaccag ctgatatctt tcaagcagaa
+      781 aaagcaatgc aaaggcgcta ttggttttcc gacattcacg ctctgggcaa atatccagaa
+      841 aacatggaag tatttttgaa acaaaacaat tttcgcccgg atattacgag cgaggaccga
+      901 atagtattaa aagaaggaac tgtcgactat attggattga gttattacaa ttcaatgacc
+      961 gttcaatcaa aagaaagcaa cccgggtttt catttcattg gtcccgaact gaccgttgat
+     1021 aatccaaatg ttgaaaaaag cgattgggga tggccgatcg atccgttggg acttaggtat
+     1081 tctttaaact ggctggccga ccactatcac aagcccttgt tcattgttga aaacggtctg
+     1141 ggagcctatg acaaagtcga aaataaccaa cagatccatg atccttatcg aatcgcttat
+     1201 ctaaaagctc atatccaggc aatgatcgat gcagttcaag aagacggggt taaggtcatt
+     1261 ggttatacgc cctggggttg tatcgatctg gtttccgccg gaaccggaca gatgtccaaa
+     1321 aggtacggtt ttatctatgt cgataaagac gaccagggca aaggtagctt aaaaagactg
+     1381 aaaaaggatt cctttttctg gtatcaacag gttattaagt caaacggcag tcaattagat
+     1441 taa
+//
+
+LOCUS       KM435259                1435 bp    DNA     linear   BCT 15-DEC-2014
+DEFINITION  Oenococcus oeni strain SD-2gf 6-phospho-beta-glucosidase gene,
+            partial cds.
+ACCESSION   KM435259
+VERSION     KM435259.1
+KEYWORDS    .
+SOURCE      Oenococcus oeni
+  ORGANISM  Oenococcus oeni
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Oenococcus.
+REFERENCE   1  (bases 1 to 1435)
+  AUTHORS   Yang,S.
+  TITLE     6-phospho-beta-glucosidase enzyme gene cloning and bioinformatics
+            analysis of Oenococcus oeni
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1435)
+  AUTHORS   Yang,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-AUG-2014) College of Enology, Northwest A&F
+            University, No. 3 Taicheng Road, Yangling, Shaanxi 712100, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1435
+                     /organism="Oenococcus oeni"
+                     /mol_type="genomic DNA"
+                     /strain="SD-2gf"
+                     /db_xref="taxon:1247"
+                     /country="China"
+                     /lat_lon="37.32 N 121.24 E"
+                     /collection_date="28-Feb-2002"
+                     /collected_by="S. Tracy"
+     CDS             <1..1435
+                     /note="6p-bgl"
+                     /codon_start=2
+                     /transl_table=11
+                     /product="6-phospho-beta-glucosidase"
+                     /protein_id="AIZ50372.1"
+                     /translation="LFLPKNFLWGGAVAANQLEGGWDQDNKGLSVADIMTAGANGKAR
+                     EITDGIVKGKYYPNHEAIDFYHRYKEDIKLFAEMGFKCFRTSIAWTRIFPNGDEEQPN
+                     EAGLKFYDQLFDECHKYGIEPVITLSHFEMPYHLVKVYGGWRNRKLIDFFVHFAKTVF
+                     KRYKDKVSYWMTFNEIDNQTDYTNRFLMATNSGLILKNDQSDAESLMYQAAHYELVAS
+                     ALAVKLGHSINPDFQIGCMINMTPVYPASSKPADIFQAEKAMQRRYWFSDIHALGKYP
+                     ENMEVFLKQNNFRPDITSEDRIVLKEGTVDYIGLSYYNSMTVQSKESNPGFHFIGPEL
+                     TVDNPNVEKSDWGWPIDPLGLRYSLNWLADHYHKPLFIVENGLGAYDKVENNQQIHDP
+                     YRIAYLKAHIQAMIDAVQEDGVKVIGYTPWGCIDLVSAGTGQMSKRYGFIYVDKDDQG
+                     KGSLKRLKKDSFFRYQQVIKSNGSQLD"
+ORIGIN      
+        1 actttttttg ccgaaaaatt ttttgtgggg aggcgccgta gcggccaacc aattagaggg
+       61 cggttgggac caagacaaca aaggtctcag tgtagccgac attatgactg ccggagccaa
+      121 tggaaaagca cgggagatta ccgatggaat tgttaaaggc aagtattacc ccaatcatga
+      181 ggccatcgac ttttatcatc gctataaaga agatatcaag ttattcgccg agatgggttt
+      241 taaatgtttt cgaacctcga ttgcctggac gaggatcttt cccaatggag acgaagagca
+      301 acccaacgaa gccggcttga agttttacga ccagctcttt gatgaatgcc acaagtatgg
+      361 tatcgaaccg gtcattaccc tctcgcattt tgaaatgccc tatcacttgg ttaaagtcta
+      421 cggcggctgg cgtaaccgaa aactaatcga tttctttgtt cactttgcca agacggtctt
+      481 caaacgttat aaagacaaag ttagctactg gatgaccttt aatgagatcg acaaccaaac
+      541 cgattataca aatcgcttct taatggctac taattccggt ttgatattaa aaaatgatca
+      601 aagtgatgca gaaagcttaa tgtatcaagc ggctcattac gaactggttg ccagtgctct
+      661 agccgtcaag cttggccata gtattaatcc tgattttcag atcggctgca tgatcaacat
+      721 gacgcctgtt tacccggctt cttcaaaacc agctgatatc tttcaagcag aaaaagcaat
+      781 gcaaaggcgc tattggtttt ccgacattca cgctctgggc aaatatccag aaaacatgga
+      841 agtatttttg aaacaaaaca attttcgccc ggatattacg agcgaggacc gaatagtatt
+      901 aaaagaagga actgtcgact atattggatt gagttattac aattcaatga ccgttcaatc
+      961 aaaagaaagc aacccgggtt ttcatttcat tggtcccgaa ctgaccgttg ataatccaaa
+     1021 tgttgaaaaa agcgattggg gatggccgat cgatccgttg ggacttaggt attctttaaa
+     1081 ctggctggcc gaccactatc acaagccctt gttcattgtt gaaaacggtc tgggagccta
+     1141 tgacaaagtc gaaaataacc aacagatcca tgacccttat cgaatcgctt atctaaaagc
+     1201 tcatatccag gcaatgatcg atgcagttca agaagacggg gttaaggtca ttggttatac
+     1261 gccctggggt tgtatcgatc tggtttccgc cggaaccgga cagatgtcca aaaggtacgg
+     1321 ttttatctat gtcgataaag acgaccaggg caaaggtagc ttaaaaagac tgaaaaagga
+     1381 ttcctttttc aggtatcaac aggttattaa gtcaaacggc agtcaattag attaa
+//
+
+LOCUS       KM435258                1443 bp    DNA     linear   BCT 15-DEC-2014
+DEFINITION  Oenococcus oeni strain SD-1d 6-phospho-beta-glucosidase gene,
+            complete cds.
+ACCESSION   KM435258
+VERSION     KM435258.1
+KEYWORDS    .
+SOURCE      Oenococcus oeni
+  ORGANISM  Oenococcus oeni
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Oenococcus.
+REFERENCE   1  (bases 1 to 1443)
+  AUTHORS   Yang,S.
+  TITLE     6-phospho-beta-glucosidase enzyme gene cloning and bioinformatics
+            analysis of Oenococcus oeni
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1443)
+  AUTHORS   Yang,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-AUG-2014) College of Enology, Northwest A&F
+            University, No. 3 Taicheng Road, Yangling, Shaanxi 712100, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1443
+                     /organism="Oenococcus oeni"
+                     /mol_type="genomic DNA"
+                     /strain="SD-1d"
+                     /db_xref="taxon:1247"
+                     /country="China"
+                     /lat_lon="36.47 N 120.18 E"
+                     /collection_date="31-Jan-2001"
+                     /collected_by="C. Grant"
+     CDS             1..1443
+                     /note="6p-bgl"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="6-phospho-beta-glucosidase"
+                     /protein_id="AIZ50371.1"
+                     /translation="MNKLFLPKNFLWGGAVAANQLEGGWDQDNKGLSVADIMTAGANG
+                     KAREITDGIVKGKYYPNHEAIDFYHRYKEDIKLFAEMGFKCFRTSIAWTRIFPNGDEE
+                     QPNEAGLKFYDQLFDECHKYGIEPVITLSHFEMPYHLVKVYGGWRNRKLIDFFVHFAK
+                     TVFKRYKDKVSYWMTFNEIDNQTDYTNRFLMATNSGLILKNDQSDAESLMYQAAHYEL
+                     VASALAVKLGHSINPDFQIGCMINMTPVYPASSKPADIFQAEKAMQRRYWFSDIHALG
+                     KYPENMEVFLKQNNFRPDITSEDRIVLKEGTVDYIGLSYYNSMTVQSKESNPGFHFIG
+                     PELTVDNPNVEKSDWGWPIDPLGLRYSLNWLADHYHKPLFIVENGLGAYDKVENNQQI
+                     HDPYRIAYLKAHIQAMIDAVQEDGVKVIGYTPWGCIDLVSAGTGQMSKRYGFIYVDKD
+                     DQGKGSLKRLKKDSFFWYQQVIKSNGSQLD"
+ORIGIN      
+        1 ttgaataaac tttttttgcc gaaaaatttt ttgtggggag gcgccgtagc ggccaaccaa
+       61 ttagagggcg gttgggacca agacaacaaa ggtctcagtg tagccgacat tatgactgcc
+      121 ggagccaatg gaaaagcacg ggagattacc gatggaattg ttaaaggcaa gtattacccc
+      181 aatcatgagg ccatcgactt ttatcatcgc tataaagaag atatcaagtt attcgccgag
+      241 atgggtttta aatgttttcg aacctcgatt gcctggacga ggatctttcc caatggagac
+      301 gaagagcaac ccaacgaagc cggcttgaag ttttacgacc agctctttga tgaatgccac
+      361 aagtatggta tcgaaccggt cattaccctc tcgcattttg aaatgcccta tcacttggtt
+      421 aaagtctacg gcggctggcg taaccgaaaa ctaatcgatt tctttgttca ctttgccaag
+      481 acggtcttca aacgttataa agacaaagtt agctactgga tgacctttaa tgagatcgac
+      541 aaccaaaccg attatacaaa tcgcttctta atggctacta attccggttt gatattaaaa
+      601 aatgatcaaa gtgatgcaga aagcttaatg tatcaagcgg ctcattacga actggttgcc
+      661 agtgctctag ccgtcaagct tggccatagt attaatcctg attttcagat cggctgcatg
+      721 atcaacatga cgcctgttta cccggcttct tcaaaaccag ctgatatctt tcaagcagaa
+      781 aaagcaatgc aaaggcgcta ttggttttcc gacattcacg ctctgggcaa atatccagaa
+      841 aacatggaag tatttttgaa acaaaacaat tttcgcccgg atattacgag cgaggaccga
+      901 atagtattaa aagaaggaac tgtcgactat attggattga gttattacaa ttcaatgacc
+      961 gttcaatcaa aagaaagcaa cccgggtttt catttcattg gtcccgaact gaccgttgat
+     1021 aatccaaatg ttgaaaaaag cgattgggga tggccgatcg atccgttggg acttaggtat
+     1081 tctttaaact ggctggccga ccactatcac aagcccttgt tcattgttga aaacggtctg
+     1141 ggagcctatg acaaagtcga aaataaccaa cagatccatg acccttatcg aatcgcttat
+     1201 ctaaaagctc atatccaggc aatgatcgat gcagttcaag aagacggggt taaggtcatt
+     1261 ggttatacgc cctggggttg tatcgatctg gtttccgccg gaaccggaca gatgtccaaa
+     1321 aggtacggtt ttatctatgt cgataaagac gaccagggca aaggtagctt aaaaagactg
+     1381 aaaaaggatt cctttttctg gtatcaacag gttattaagt caaacggcag tcaattagat
+     1441 taa
+//
+
+LOCUS       KC441954                1428 bp    DNA     linear   ENV 01-APR-2013
+DEFINITION  Uncultured organism 6-phospho-beta-glucosidase gene, complete cds.
+ACCESSION   KC441954
+VERSION     KC441954.1
+KEYWORDS    ENV.
+SOURCE      uncultured organism
+  ORGANISM  uncultured organism
+            unclassified sequences; environmental samples.
+REFERENCE   1  (bases 1 to 1428)
+  AUTHORS   Yang,C., Niu,Y., Li,C., Zhu,D., Wang,W., Liu,X., Cheng,B., Ma,C.
+            and Xu,P.
+  TITLE     Characterization of a Novel Metagenome-Derived
+            6-Phospho-beta-Glucosidase from Black Liquor Sediment
+  JOURNAL   Appl. Environ. Microbiol. 79 (7), 2121-2127 (2013)
+   PUBMED   23335769
+REFERENCE   2  (bases 1 to 1428)
+  AUTHORS   Yang,C. and Niu,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-JAN-2013) State Key Laboratory of Microbial
+            Technology, Shandong University, Shanda Nanlu 27, Jinan, Shandong
+            250100, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: SOAOdenovo v. 1.05
+            Sequencing Technology :: 454
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1428
+                     /organism="uncultured organism"
+                     /mol_type="genomic DNA"
+                     /isolation_source="black liquor sediment"
+                     /db_xref="taxon:155900"
+                     /clone="Pbgl25-217"
+                     /environmental_sample
+     CDS             1..1428
+                     /codon_start=1
+                     /transl_table=11
+                     /product="6-phospho-beta-glucosidase"
+                     /protein_id="AGD88872.1"
+                     /translation="MALREDFLWGGATAANQCEGGYKEGGRGLANVDVAPHGKDRFPV
+                     LAGKMKMFECDDEHYYPAHEAIDMYHNYKEDIKMFAEMGFKCYRLSIAWTRIFPTGEE
+                     TTPNEEGLKFYDSLFDECLKYGIEPLVTICHFDVPMYLVEKYGAWRDRRLVDLYVKYC
+                     ETILTRYKDKVKYWLTFNEINMILHLPFIGAGLYIEEGENEEQIKYQAAHHQLVASAL
+                     VTKLAREINPEFKIGCMLAAGNTYAYTCNPNDVWNSMEKDRENYFFIDVQSRGEYPAY
+                     AIKELERKGINIVMGEDDKKILKENTVDFISFSYYSSRLTSADPEISSQTQGNVFATL
+                     RNPHLKASEWGWQIDPLGLRITMNSLYDRYQKPLFIVENGLGAVDTPDENGYVSDDYR
+                     IEYLREHIKAMIDAVELDGVDLLGYTPWGCIDLVSASTGEMKKRYGFIYVDKDNDGNG
+                     TLKRSKKKSFDWYKKVIASNGKDLD"
+ORIGIN      
+        1 atggcactta gagaagattt tttatggggt ggagcaactg ctgctaacca atgtgaaggt
+       61 ggatataaag aaggtggaag aggtttagct aatgtagacg tagctccaca cggaaaagat
+      121 agatttccag ttctggctgg aaaaatgaaa atgtttgaat gtgatgatga gcattattat
+      181 ccagctcatg aggctataga tatgtatcac aactataaag aagatataaa aatgtttgcg
+      241 gagatgggat tcaaatgtta ccgtttatct atagcatgga ctagaatatt cccaacaggg
+      301 gaagaaacta ctccaaacga agaaggatta aaattctatg atagtttatt tgatgaatgt
+      361 ttaaaatacg gaatagagcc attagtaaca atttgtcact ttgatgttcc tatgtactta
+      421 gtagaaaaat atggagcatg gagagatcgt agactagtag atttatatgt aaaatactgt
+      481 gaaacgatat taacaagata caaggataag gtaaaatatt ggttaacatt taatgaaatc
+      541 aatatgatac ttcacttacc ttttatagga gcaggattat acattgaaga aggagaaaat
+      601 gaagaacaaa taaaatacca agcggcacac catcaattag ttgcaagtgc attagttaca
+      661 aaattagctc gtgaaataaa tcctgaattt aaaataggat gtatgttagc agcgggaaat
+      721 acatatgcat atacttgtaa tccaaatgat gtatggaact ctatggaaaa agacagagaa
+      781 aattacttct ttatagatgt acaatctcgt ggagaatacc cagcatatgc tataaaagaa
+      841 ttagagcgta agggaataaa tatagtaatg ggagaagatg ataaaaagat acttaaagaa
+      901 aatactgtag actttatatc tttctcatat tactcatcaa gattaacaag tgcagatcct
+      961 gaaataagtt ctcaaacaca aggaaatgtt tttgcaacac ttagaaatcc acatttaaaa
+     1021 gcaagtgaat ggggatggca aatagatcca ctaggtctta gaataacaat gaactcttta
+     1081 tatgaccgtt atcaaaagcc gttattcata gttgaaaacg ggttaggggc agtagatact
+     1141 ccggatgaaa atggatatgt aagcgatgac tacagaatag aatatttacg tgaacatatt
+     1201 aaagctatga tagatgcagt tgaattagat ggtgtagatt tactaggtta cactccatgg
+     1261 ggatgtatag acttagtaag tgctagtact ggagaaatga aaaaacgtta tggatttata
+     1321 tatgtagata aagataatga tggaaatgga actttaaaac gtagtaagaa aaaaagtttt
+     1381 gattggtata aaaaagtaat agcatcaaat ggtaaagatt tagattag
+//
+
+LOCUS       LLU78973                 552 bp    DNA     linear   BCT 26-JUL-1997
+DEFINITION  Lactococcus lactis 6-phospho-beta-glucosidase (bglA) gene, partial
+            cds.
+ACCESSION   U78973
+VERSION     U78973.1
+KEYWORDS    .
+SOURCE      Lactococcus lactis subsp. cremoris MG1363
+  ORGANISM  Lactococcus lactis subsp. cremoris MG1363
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae;
+            Lactococcus.
+REFERENCE   1  (bases 1 to 552)
+  AUTHORS   Duwat,P., Cochu,A., Ehrlich,S.D. and Gruss,A.
+  TITLE     Characterization of Lactococcus lactis UV-sensitive mutants
+            obtained by ISS1 transposition
+  JOURNAL   J. Bacteriol. 179 (14), 4473-4479 (1997)
+   PUBMED   9226255
+REFERENCE   2  (bases 1 to 552)
+  AUTHORS   Duwat,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-NOV-1996) Genetique Microbienne, INRA, Jouy en Josas
+            78352, France
+FEATURES             Location/Qualifiers
+     source          1..552
+                     /organism="Lactococcus lactis subsp. cremoris MG1363"
+                     /mol_type="genomic DNA"
+                     /strain="MG1363"
+                     /sub_species="cremoris"
+                     /db_xref="taxon:416870"
+     gene            1..552
+                     /gene="bglA"
+     CDS             <1..>552
+                     /gene="bglA"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="BglA; putative; similar to Bacillus subtilis
+                     6-phospho-beta-glucosidase, Swiss-Prot Accession Number
+                     P42973"
+                     /codon_start=2
+                     /transl_table=11
+                     /product="6-phospho-beta-glucosidase"
+                     /protein_id="AAC45491.1"
+                     /translation="LIFYDELFDELLLNGIEPVITLSHFEIPYHLYTEYGGFRNKKMI
+                     DFFVNYAEVVLKRYKNKVKYWMTFNEINNQADGQSSLHVWTNSAIRLKDDDIKEEVVF
+                     QASLNELIAADKVVKLAHDISPNFQIGCMMAYVPVYAYSCNPTDAREAIKVMERRYFY
+                     SDIHVRGHIPKYTLNYWHNKHYH"
+     misc_feature    293..300
+                     /gene="bglA"
+                     /note="region duplicated during the ISS1 insertion into
+                     the T68 (bglA) mutant"
+ORIGIN      
+        1 tttgatattt tacgatgagc tttttgatga actcctttta aatggtatag agccggtaat
+       61 taccttatca cattttgaaa taccttacca tctgtataca gagtatggag gttttagaaa
+      121 taaaaaaatg attgattttt ttgtcaacta tgccgaggtc gttttaaaac gttataaaaa
+      181 taaggtaaaa tactggatga cttttaatga aattaataat caagcagatg gtcaatcttc
+      241 cttgcatgtt tggacaaatt cagctattcg cttaaaagat gatgacatca aagaagaggt
+      301 tgtctttcaa gcgtctctaa atgaactaat tgctgcggac aaagtcgtaa aattagctca
+      361 tgatattagt cctaattttc aaataggatg tatgatggct tatgttcctg tttatgccta
+      421 ttcttgcaat ccaacagatg cgagggaagc aataaaagtt atggaacgtc gctactttta
+      481 tagtgatatt catgtgcgag ggcatattcc aaaatatacc cttaactatt ggcataacaa
+      541 acattatcat at
+//
+
+LOCUS       EU896729                1425 bp    DNA     linear   BCT 08-JUN-2009
+DEFINITION  Escherichia coli strain TW14359 6-phospho-beta-glucosidase
+            (ECs3572) gene, complete cds.
+ACCESSION   EU896729
+VERSION     EU896729.1
+KEYWORDS    .
+SOURCE      Escherichia coli
+  ORGANISM  Escherichia coli
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Escherichia.
+REFERENCE   1  (bases 1 to 1425)
+  AUTHORS   Leopold,S.R., Magrini,V., Holt,N.J., Shaikh,N., Mardis,E.R.,
+            Cagno,J., Ogura,Y., Iguchi,A., Hayashi,T., Mellmann,A., Karch,H.,
+            Besser,T.E., Sawyer,S.A., Whittam,T.S. and Tarr,P.I.
+  TITLE     A precise reconstruction of the emergence and constrained
+            radiations of Escherichia coli O157 portrayed by backbone
+            concatenomic analysis
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 106 (21), 8713-8718 (2009)
+   PUBMED   19439656
+REFERENCE   2  (bases 1 to 1425)
+  AUTHORS   Leopold,S.R., Magrini,V., Holt,N.J., Shaikh,N., Mardis,E.R.,
+            Cagno,J., Oguro,Y., Iguchi,A., Hayashi,T., Mellmann,A., Karch,H.,
+            Besser,T.E., Sawyer,S.A., Whittam,T.S. and Tarr,P.I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-JUL-2008) Department of Pediatrics, Washington
+            University School of Medicine, 660 South Euclid Avenue, Saint
+            Louis, MO 63110, USA
+FEATURES             Location/Qualifiers
+     source          1..1425
+                     /organism="Escherichia coli"
+                     /mol_type="genomic DNA"
+                     /strain="TW14359"
+                     /db_xref="taxon:562"
+     gene            1..1425
+                     /locus_tag="ECs3572"
+     CDS             1..1425
+                     /locus_tag="ECs3572"
+                     /note="similar to 6-phospho-beta-glucosidase, Escherichia
+                     coli O157 Sakai ECs3572"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="6-phospho-beta-glucosidase"
+                     /protein_id="ACI79285.1"
+                     /translation="MSVFPEGFLWGGALAANQSEGAFREGGKGLTTVDMIPHGEHRMA
+                     VKLGLEKRFQLRDDEFYPSHEATGFYHRYKEDIALMAEMGFKVFRTSIAWSRPFPQGD
+                     ELTPNQQGIAFYRSVFEECKKYGIEPLVTLCHFDVPMQLVTEYGSWRNRKLVEFFSRY
+                     ARTCFEAFDGLVKYWLTFNEINIMLHSPFSGAGLVFEEGENQDQVKYQAAHHQLVASA
+                     LATKIAHEVNPQNQVGCMLAGGNFYPYSCKPEDVWAALEKDRENLFFIDVQARGAYPA
+                     YSARVFREKGVTIDKAPGDDEILKNTVDFVSFSYYASRCASAEMNTNNSSAANVVKSL
+                     RNPYLQVSDWGWGIDPLGLRITMNMMYDRYQKPLFLVENGLGAKDELAANGEINDDYR
+                     ISYLREHIRAMGEAIADGIPLMGYTTWGCIDLVSASTGEMSKRYGFVFVDRDDAGNGT
+                     LTRTRKKSFWWYKKVIASNGEDLE"
+ORIGIN      
+        1 atgtcagtat ttccagaagg ttttttatgg ggcggcgcgc ttgccgccaa ccagtctgaa
+       61 ggtgcgttcc gtgaaggtgg caaaggactg acaacggtcg atatgatccc acacggcgag
+      121 catcgaatgg cggtgaaact ggggctggaa aaacgttttc agttgcgcga tgacgagttt
+      181 tatcccagcc atgaggcgac gggtttttat catcgttata aagaagatat cgccctgatg
+      241 gcagagatgg gattcaaagt gttccgtacc tcaattgcct ggagccgccc cttcccgcag
+      301 ggtgatgaac tgacgcccaa ccagcagggc attgcttttt accgttctgt ctttgaagag
+      361 tgtaaaaagt acggtatcga accgctggtc acattgtgcc acttcgatgt gccgatgcag
+      421 ctggtcaccg aatatggctc ctggcgtaac cgcaagctgg tggagttttt cagccgctac
+      481 gccaggacct gctttgaagc atttgatggt ctggtgaaat actggctaac cttcaatgaa
+      541 atcaacatta tgttgcatag cccgttctcc ggcgcggggc tggtgtttga agaaggtgaa
+      601 aatcaggatc aggtgaaata tcaggccgcg catcaccagc tggttgccag tgcgctagcc
+      661 accaaaatcg cccatgaggt taacccgcaa aatcaggtgg gctgtatgct ggcgggcggt
+      721 aacttctacc cttacagttg caagccggaa gatgtctggg cggcgctgga gaaagatcgg
+      781 gaaaacctgt tttttatcga tgtgcaggcg cggggcgcgt atccggctta ctctgctcgc
+      841 gtattccgcg aaaaaggggt aaccatcgac aaagcaccgg gcgatgatga gatcctgaaa
+      901 aacaccgtcg attttgtctc tttcagctat tacgcctcgc gctgcgcctc ggcggagatg
+      961 aacaccaaca atagcagtgc ggcgaacgta gtgaaatcgc tgcgtaaccc gtatctacag
+     1021 gtgagcgact ggggctgggg aattgatcca ctcggtctgc gtatcaccat gaacatgatg
+     1081 tacgaccgct atcagaagcc gctgtttctg gtggaaaacg gcctcggcgc aaaagatgaa
+     1141 cttgctgcca atggcgagat taacgatgac tatcgcatca gctatttacg cgaacatatc
+     1201 cgcgcaatgg gcgaagcgat tgcagatggc attccgctga tgggctacac cacatggggc
+     1261 tgtattgatt tagtttccgc ctctacgggt gaaatgagca aacgctacgg ttttgtcttt
+     1321 gttgaccgtg acgacgcagg caacggcacg ctgacgcgca cacgtaagaa atcgttctgg
+     1381 tggtataaaa aagtgattgc cagtaatggg gaagatttag agtag
+//
+
+LOCUS       EU896728                1425 bp    DNA     linear   BCT 08-JUN-2009
+DEFINITION  Escherichia coli strain TB182A 6-phospho-beta-glucosidase (ECs3572)
+            gene, complete cds.
+ACCESSION   EU896728
+VERSION     EU896728.1
+KEYWORDS    .
+SOURCE      Escherichia coli
+  ORGANISM  Escherichia coli
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Escherichia.
+REFERENCE   1  (bases 1 to 1425)
+  AUTHORS   Leopold,S.R., Magrini,V., Holt,N.J., Shaikh,N., Mardis,E.R.,
+            Cagno,J., Ogura,Y., Iguchi,A., Hayashi,T., Mellmann,A., Karch,H.,
+            Besser,T.E., Sawyer,S.A., Whittam,T.S. and Tarr,P.I.
+  TITLE     A precise reconstruction of the emergence and constrained
+            radiations of Escherichia coli O157 portrayed by backbone
+            concatenomic analysis
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 106 (21), 8713-8718 (2009)
+   PUBMED   19439656
+REFERENCE   2  (bases 1 to 1425)
+  AUTHORS   Leopold,S.R., Magrini,V., Holt,N.J., Shaikh,N., Mardis,E.R.,
+            Cagno,J., Oguro,Y., Iguchi,A., Hayashi,T., Mellmann,A., Karch,H.,
+            Besser,T.E., Sawyer,S.A., Whittam,T.S. and Tarr,P.I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-JUL-2008) Department of Pediatrics, Washington
+            University School of Medicine, 660 South Euclid Avenue, Saint
+            Louis, MO 63110, USA
+FEATURES             Location/Qualifiers
+     source          1..1425
+                     /organism="Escherichia coli"
+                     /mol_type="genomic DNA"
+                     /strain="TB182A"
+                     /db_xref="taxon:562"
+     gene            1..1425
+                     /locus_tag="ECs3572"
+     CDS             1..1425
+                     /locus_tag="ECs3572"
+                     /note="similar to 6-phospho-beta-glucosidase, Escherichia
+                     coli O157 Sakai ECs3572"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="6-phospho-beta-glucosidase"
+                     /protein_id="ACI79284.1"
+                     /translation="MSVFPEGFLWGGALAANQSEGAFREGGKGLTTVDMIPHGEHRMA
+                     VKLGLEKRFQLRDDEFYPSHEATGFYHRYKEDIALMAEMGFKVFRTSIAWSRLFPQGD
+                     ELTPNQQGIAFYRSVFEECKKYGIEPLVTLCHFDVPMQLVTEYGSWRNRKLVEFFSRY
+                     ARTCFEAFDGLVKYWLTFNEINIMLHSPFSGAGLVFEEGENQDQVKYQAAHHQLVASA
+                     LATKIAHEVNPQNQVGCMLAGGNFYPYSCKPEDVWAALEKDRENLFFIDVQARGAYPA
+                     YSARVFREKGVTIDKAPGDDEILKNTVDFVSFSYYASRCASAEMNTNNSSAANVVKSL
+                     RNPYLQVSDWGWGIDPLGLRITMNMMYDRYQKPLFLVENGLGAKDKLAANGEINDDYR
+                     ISYLREHIRAMGEAIADGIPLMGYTTWGCIDLVSASTGEMSKRYGFVFVDRDDAGNGT
+                     LTRTRKKSFWWYKKVIASNGEDLE"
+ORIGIN      
+        1 atgtcagtat ttccagaagg ttttttatgg ggcggcgcgc ttgccgccaa ccagtctgaa
+       61 ggtgcgttcc gtgaaggtgg caaaggactg acaacggtcg atatgatccc acacggcgag
+      121 catcgaatgg cggtgaaact ggggctggaa aaacgttttc agttgcgcga tgacgagttt
+      181 tatcccagcc atgaggcgac gggtttttat catcgttata aagaagatat cgccctgatg
+      241 gcagagatgg gattcaaagt gttccgtacc tcaattgcct ggagccgcct cttcccgcag
+      301 ggtgatgaac tgacgcccaa ccagcagggc attgcttttt accgttctgt ctttgaagag
+      361 tgtaaaaagt acggtatcga accgctggtc acgttgtgcc acttcgatgt gccgatgcag
+      421 ctggtcaccg aatatggctc ctggcgtaac cgcaagctgg tggagttttt cagccgctac
+      481 gccaggacct gctttgaagc atttgatggt ctggtgaaat actggctaac cttcaatgaa
+      541 atcaacatta tgttgcatag cccgttctcc ggcgcggggc tggtgtttga agaaggtgaa
+      601 aatcaggatc aggtgaaata tcaggccgcg catcaccagc tggttgccag tgcgctagcc
+      661 accaaaatcg cccatgaggt taacccgcaa aatcaggtgg gctgtatgct ggcgggcggt
+      721 aacttctacc cttacagttg caagccggaa gatgtctggg cggcgctgga gaaagatcgg
+      781 gaaaacctgt tttttatcga tgtgcaggcg cggggcgcgt atccggctta ctctgctcgc
+      841 gtattccgcg aaaaaggggt aaccatcgac aaagcaccag gcgatgatga gatcctgaaa
+      901 aacaccgtcg attttgtctc tttcagctat tacgcctcgc gctgcgcctc ggcggagatg
+      961 aacaccaaca atagcagtgc ggcgaacgta gtgaaatcgc tgcgtaaccc gtatctacag
+     1021 gtgagcgact ggggctgggg aattgatcca ctcggtctgc gtatcaccat gaacatgatg
+     1081 tacgaccgct atcagaagcc gctgtttctg gtggaaaacg gcctcggcgc aaaagataaa
+     1141 cttgctgcca atggcgagat taacgatgac tatcgcatca gctatttacg cgaacatatc
+     1201 cgcgcaatgg gcgaagcgat tgcagatggc attccgctga tgggctacac cacatggggc
+     1261 tgtattgatt tagtttccgc ctctacgggt gaaatgagca aacgctacgg ttttgtcttt
+     1321 gttgaccgtg acgacgcagg caacggcacg ctgacgcgca cacgtaagaa atcgttctgg
+     1381 tggtataaaa aagtgattgc cagtaatggg gaagatttag agtag
+//
+
+LOCUS       EU896727                1425 bp    DNA     linear   BCT 08-JUN-2009
+DEFINITION  Escherichia coli strain 87-14 6-phospho-beta-glucosidase (ECs3572)
+            gene, complete cds.
+ACCESSION   EU896727
+VERSION     EU896727.1
+KEYWORDS    .
+SOURCE      Escherichia coli
+  ORGANISM  Escherichia coli
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Escherichia.
+REFERENCE   1  (bases 1 to 1425)
+  AUTHORS   Leopold,S.R., Magrini,V., Holt,N.J., Shaikh,N., Mardis,E.R.,
+            Cagno,J., Ogura,Y., Iguchi,A., Hayashi,T., Mellmann,A., Karch,H.,
+            Besser,T.E., Sawyer,S.A., Whittam,T.S. and Tarr,P.I.
+  TITLE     A precise reconstruction of the emergence and constrained
+            radiations of Escherichia coli O157 portrayed by backbone
+            concatenomic analysis
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 106 (21), 8713-8718 (2009)
+   PUBMED   19439656
+REFERENCE   2  (bases 1 to 1425)
+  AUTHORS   Leopold,S.R., Magrini,V., Holt,N.J., Shaikh,N., Mardis,E.R.,
+            Cagno,J., Oguro,Y., Iguchi,A., Hayashi,T., Mellmann,A., Karch,H.,
+            Besser,T.E., Sawyer,S.A., Whittam,T.S. and Tarr,P.I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-JUL-2008) Department of Pediatrics, Washington
+            University School of Medicine, 660 South Euclid Avenue, Saint
+            Louis, MO 63110, USA
+FEATURES             Location/Qualifiers
+     source          1..1425
+                     /organism="Escherichia coli"
+                     /mol_type="genomic DNA"
+                     /strain="87-14"
+                     /db_xref="taxon:562"
+     gene            1..1425
+                     /locus_tag="ECs3572"
+     CDS             1..1425
+                     /locus_tag="ECs3572"
+                     /note="similar to 6-phospho-beta-glucosidase, Escherichia
+                     coli O157 Sakai ECs3572"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="6-phospho-beta-glucosidase"
+                     /protein_id="ACI79283.1"
+                     /translation="MSVFPEGFLWGGALAANQSEGAFREGGKGLTTVDMIPHGEHRMA
+                     VKLGLEKRFQLRDDEFYPSHEATGFYHRYKEDIALMAEMGFKVFRTSIAWSRPFPQGD
+                     ELTPNQQGIAFYRSVFEECKKYGIEPLVTLCHFDVPMQLVTEYGSWRNRKLVEFFSRY
+                     ARTCFEAFDGLVKYWLTFNEINIMLHSPFSGAGLVFEEGENQDQVKYQAAHHQLVASA
+                     LATKIAHEVNPQNQVGCMLAGGNFYPYSCKPEDVWAALEKDRENLFFIDVQARGAYPA
+                     YSARVFREKGVTIDKAPGDDEILKNTVDFVSFSYYASRCASAEMNTNNSSAANVVKSL
+                     RNPYLQVSDWGWGIDPLGLRITMNMMYDRYQKPLFLVENGLGAKDELAANGEINDDYR
+                     ISYLREHIRAMGEAIADGIPLMGYTTWGCIDLVSASTGEMSKRYGFVFVDRDDAGNGT
+                     LTRTRKKSFWWYKKVIASNGEDLE"
+ORIGIN      
+        1 atgtcagtat ttccagaagg ttttttatgg ggcggcgcgc ttgccgccaa ccagtctgaa
+       61 ggtgcgttcc gtgaaggtgg caaaggactg acaacggtcg atatgatccc acacggcgag
+      121 catcgaatgg cggtgaaact ggggctggaa aaacgttttc agttgcgcga tgacgagttt
+      181 tatcccagcc atgaggcgac gggtttttat catcgttata aagaagatat cgccctgatg
+      241 gcagagatgg gattcaaagt gttccgtacc tcaattgcct ggagccgccc cttcccgcag
+      301 ggtgatgaac tgacgcccaa ccagcagggc attgcttttt accgttctgt ctttgaagag
+      361 tgtaaaaagt acggtatcga accgctggtc acattgtgcc acttcgatgt gccgatgcag
+      421 ctggtcaccg aatatggctc ctggcgtaac cgcaagctgg tggagttttt cagccgctac
+      481 gccaggacct gctttgaagc atttgatggt ctggtgaaat actggctaac cttcaatgaa
+      541 atcaacatta tgttgcatag cccgttctcc ggcgcggggc tggtgtttga agaaggtgaa
+      601 aatcaggatc aggtgaaata tcaggccgcg catcaccagc tggttgccag tgcgctagcc
+      661 accaaaatcg cccatgaggt taacccgcaa aatcaggtgg gctgtatgct ggcgggcggt
+      721 aacttctacc cttacagttg caagccggaa gatgtctggg cggcgctgga gaaagatcgg
+      781 gaaaacctgt tttttatcga tgtgcaggcg cggggcgcgt atccggctta ctctgctcgc
+      841 gtattccgcg aaaaaggggt aaccatcgac aaagcaccgg gcgatgatga gatcctgaaa
+      901 aacaccgtcg attttgtctc tttcagctat tacgcctcgc gctgcgcctc ggcggagatg
+      961 aacaccaaca atagcagtgc ggcgaacgta gtgaaatcgc tgcgtaaccc gtatctacag
+     1021 gtgagcgact ggggctgggg aattgatcca ctcggtctgc gtatcaccat gaacatgatg
+     1081 tacgaccgct atcagaagcc gctgtttctg gtggaaaacg gcctcggcgc aaaagatgaa
+     1141 cttgctgcca atggcgagat taacgatgac tatcgcatca gctatttacg cgaacatatc
+     1201 cgcgcaatgg gcgaagcgat tgcagatggc attccgctga tgggctacac cacatggggc
+     1261 tgtattgatt tagtttccgc ctctacgggt gaaatgagca aacgctacgg ttttgtcttt
+     1321 gttgaccgtg acgacgcagg caacggcacg ctgacgcgca cacgtaagaa atcgttctgg
+     1381 tggtataaaa aagtgattgc cagtaatggg gaagatttag agtag
+//
+
+LOCUS       EU896726                1425 bp    DNA     linear   BCT 08-JUN-2009
+DEFINITION  Escherichia coli strain 86-24 6-phospho-beta-glucosidase (ECs3572)
+            gene, complete cds.
+ACCESSION   EU896726
+VERSION     EU896726.1
+KEYWORDS    .
+SOURCE      Escherichia coli
+  ORGANISM  Escherichia coli
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Escherichia.
+REFERENCE   1  (bases 1 to 1425)
+  AUTHORS   Leopold,S.R., Magrini,V., Holt,N.J., Shaikh,N., Mardis,E.R.,
+            Cagno,J., Ogura,Y., Iguchi,A., Hayashi,T., Mellmann,A., Karch,H.,
+            Besser,T.E., Sawyer,S.A., Whittam,T.S. and Tarr,P.I.
+  TITLE     A precise reconstruction of the emergence and constrained
+            radiations of Escherichia coli O157 portrayed by backbone
+            concatenomic analysis
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 106 (21), 8713-8718 (2009)
+   PUBMED   19439656
+REFERENCE   2  (bases 1 to 1425)
+  AUTHORS   Leopold,S.R., Magrini,V., Holt,N.J., Shaikh,N., Mardis,E.R.,
+            Cagno,J., Oguro,Y., Iguchi,A., Hayashi,T., Mellmann,A., Karch,H.,
+            Besser,T.E., Sawyer,S.A., Whittam,T.S. and Tarr,P.I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-JUL-2008) Department of Pediatrics, Washington
+            University School of Medicine, 660 South Euclid Avenue, Saint
+            Louis, MO 63110, USA
+FEATURES             Location/Qualifiers
+     source          1..1425
+                     /organism="Escherichia coli"
+                     /mol_type="genomic DNA"
+                     /strain="86-24"
+                     /db_xref="taxon:562"
+     gene            1..1425
+                     /locus_tag="ECs3572"
+     CDS             1..1425
+                     /locus_tag="ECs3572"
+                     /note="similar to 6-phospho-beta-glucosidase, Escherichia
+                     coli O157 Sakai ECs3572"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="6-phospho-beta-glucosidase"
+                     /protein_id="ACI79282.1"
+                     /translation="MSVFPEGFLWGGALAANQSEGAFREGGKGLTTVDMIPHGEHRMA
+                     VKLGLEKRFQLRDDEFYPSHEATGFYHRYKEDIALMAEMGFKVFRTSIAWSRPFPQGD
+                     ELTPNQQGIAFYRSVFEECKKYGIEPLVTLCHFDVPMQLVTEYGSWRNRKLVEFFSRY
+                     ARTCFEAFDGLVKYWLTFNEINIMLHSPFSGAGLVFEEGENQDQVKYQAAHHQLVASA
+                     LATKIAHEVNPQNQVGCMLAGGNFYPYSCKPEDVWAALEKDRENLFFIDVQARGAYPA
+                     YSARVFREKGVTIDKAPGDDEILKNTVDFVSFSYYASRCASAEMNTNNSSAANVVKSL
+                     RNPYLQVSDWGWGIDPLGLRITMNMMYDRYQKPLFLVENGLGAKDELAANGEINDDYR
+                     ISYLREHIRAMGEAIADGIPLMGYTTWGCIDLVSASTGEMSKRYGFVFVDRDDAGNGT
+                     LTRTRKKSFWWYKKVIASNGEDLE"
+ORIGIN      
+        1 atgtcagtat ttccagaagg ttttttatgg ggcggcgcgc ttgccgccaa ccagtctgaa
+       61 ggtgcgttcc gtgaaggtgg caaaggactg acaacggtcg atatgatccc acacggcgag
+      121 catcgaatgg cggtgaaact ggggctggaa aaacgttttc agttgcgcga tgacgagttt
+      181 tatcccagcc atgaggcgac gggtttttat catcgttata aagaagatat cgccctgatg
+      241 gcagagatgg gattcaaagt gttccgtacc tcaattgcct ggagccgccc cttcccgcag
+      301 ggtgatgaac tgacgcccaa ccagcagggc attgcttttt accgttctgt ctttgaagag
+      361 tgtaaaaagt acggtatcga accgctggtc acattgtgcc acttcgatgt gccgatgcag
+      421 ctggtcaccg aatatggctc ctggcgtaac cgcaagctgg tggagttttt cagccgctac
+      481 gccaggacct gctttgaagc atttgatggt ctggtgaaat actggctaac cttcaatgaa
+      541 atcaacatta tgttgcatag cccgttctcc ggcgcggggc tggtgtttga agaaggtgaa
+      601 aatcaggatc aggtgaaata tcaggccgcg catcaccagc tggttgccag tgcgctagcc
+      661 accaaaatcg cccatgaggt taacccgcaa aatcaggtgg gctgtatgct ggcgggcggt
+      721 aacttctacc cttacagttg caagccggaa gatgtctggg cggcgctgga gaaagatcgg
+      781 gaaaacctgt tttttatcga tgtgcaggcg cggggcgcgt atccggctta ctctgctcgc
+      841 gtattccgcg aaaaaggggt aaccatcgac aaagcaccgg gcgatgatga gatcctgaaa
+      901 aacaccgtcg attttgtctc tttcagctat tacgcctcgc gctgcgcctc ggcggagatg
+      961 aacaccaaca atagcagtgc ggcgaacgta gtgaaatcgc tgcgtaaccc gtatctacag
+     1021 gtgagcgact ggggctgggg aattgatcca ctcggtctgc gtatcaccat gaacatgatg
+     1081 tacgaccgct atcagaagcc gctgtttctg gtggaaaacg gcctcggcgc aaaagatgaa
+     1141 cttgctgcca atggcgagat taacgatgac tatcgcatca gctatttacg cgaacatatc
+     1201 cgcgcaatgg gcgaagcgat tgcagatggc attccgctga tgggctacac cacatggggc
+     1261 tgtattgatt tagtttccgc ctctacgggt gaaatgagca aacgctacgg ttttgtcttt
+     1321 gttgaccgtg acgacgcagg caacggcacg ctgacgcgca cacgtaagaa atcgttctgg
+     1381 tggtataaaa aagtgattgc cagtaatggg gaagatttag agtag
+//
+

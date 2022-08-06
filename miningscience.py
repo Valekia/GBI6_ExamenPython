@@ -1,4 +1,6 @@
+
 #Angiely Camacho 
+
 import re
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -25,8 +27,9 @@ def download_pubmed (keyword):
                            retmax=543, webenv=webenv, query_key=query_key)
     data = handle.read()
     dataexp = re.sub(r'\n\s{6}','', data)
-    return 
+    return dataexp
     
+
 
 def science_plots(tipo):
     """creación de un pie con los países"""
